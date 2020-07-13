@@ -1,0 +1,6 @@
+primary-background
+{
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,121,105,1) 35%, rgba(0,255,226,1) 100%);
+    background-color: #e3f2fd;
+}
